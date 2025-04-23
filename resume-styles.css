@@ -1,0 +1,25 @@
+body{
+	background: orange;
+	
+}
+.profile-info-container{
+	display: flex;
+	justify-content: flex-start;
+	background: white;
+	padding-top: 20px;
+	padding-bottom: 80px;
+	padding-left: 200px;
+	padding-right: 200px;
+	gap: 40px;
+  }
+.profile-photo{
+	width: 180px;
+	height: 200px;
+	border-radius: 50px;
+}
+table{
+	border: solid 2px blue;
+}
+th,td{
+	border: solid 2px brown
+}
